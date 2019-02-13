@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\baqer.naqvi.AFINITI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\baqer.naqvi.AFINITI\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
