@@ -11799,11 +11799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baqer.naqvi.AFINITI\\source\\repos\\admin.delivers.pk\\admin.delivers.pk\\admin.delivers.pk.csproj",
+      "projectUniqueName": "D:\\GitHub\\Delivers-Admin\\admin.delivers.pk\\admin.delivers.pk\\admin.delivers.pk.csproj",
       "projectName": "admin.delivers.pk",
-      "projectPath": "C:\\Users\\baqer.naqvi.AFINITI\\source\\repos\\admin.delivers.pk\\admin.delivers.pk\\admin.delivers.pk.csproj",
+      "projectPath": "D:\\GitHub\\Delivers-Admin\\admin.delivers.pk\\admin.delivers.pk\\admin.delivers.pk.csproj",
       "packagesPath": "C:\\Users\\baqer.naqvi.AFINITI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baqer.naqvi.AFINITI\\source\\repos\\admin.delivers.pk\\admin.delivers.pk\\obj\\",
+      "outputPath": "D:\\GitHub\\Delivers-Admin\\admin.delivers.pk\\admin.delivers.pk\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
